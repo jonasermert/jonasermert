@@ -3,13 +3,13 @@
 ### About me 👋
 My name is <b>Jonas</b>
 
-🌱 I am learning Kotlin, Flutter
+🌱 I am learning Java
 
 :man_teacher:  I've successfully completed Fullstack Web Development Bootcamp @ SuperCode GmbH
 
 📡 Looking for Job as Developer
 
-🔭 I’m currently watching "Complete Kotlin development masterclass" from Catalin Stefan on Udemy
+🔭 I’m currently watching "" from  on Udemy
 
 👯 I’m looking to collaborate on Java Intermediate Projects
 
@@ -25,7 +25,7 @@ My name is <b>Jonas</b>
 
 🐤 You can find me on Twitter as [JonasErmert](https://twitter.com/JonasErmert)
 
-💬 Ask me about Java, Spring, JOOQ, HTML, CSS, SCSS, ReactJS, NodeJS, npm, ExpressJS, MySQL, MongoDB
+💬 Ask me about Java, Spring
 
 😄 Pronouns: ... He/Him
 
