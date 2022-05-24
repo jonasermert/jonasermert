@@ -9,7 +9,7 @@ My name is <b>Jonas</b>
 
 📡 Looking for Job as Developer
 
-🔭 I’m currently watching "" from  on Udemy
+🔭 I’m currently watching "" from  on 
 
 👯 I’m looking to collaborate on Java Intermediate Projects
 
