@@ -9,7 +9,7 @@ My name is <b>Jonas</b>
 
 📡 Looking for Job as Developer
 
-🔭 I’m currently watching "Angular 4 Java Developers" from Dan Vega and John Thompson on Udemy
+🔭 I’m currently watching "" from  on 
 
 👯 I’m looking to collaborate on Java Intermediate Projects
 
