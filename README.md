@@ -3,7 +3,7 @@
 ### About me 👋
 My name is <b>Jonas</b>
 
-🌱 I am learning Java, React
+🌱 I am learning Dart, Flutter
 
 :man_teacher:  I've successfully completed Fullstack Web Development Bootcamp @ SuperCode GmbH
 
